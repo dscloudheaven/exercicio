@@ -1,0 +1,2 @@
+# exercicio
+arrumando códigos
